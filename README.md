@@ -5,7 +5,7 @@ I am a results-oriented professional specializing in operations analysis with a 
 
 Currently, I am pursuing a finance degree to further complement my skills in business analytics. I excel in collaborating with cross-functional teams to provide actionable recommendations based on thorough data analysis.
 
-- 📄 Get to know about my experiences via my [resume]([https://docs.google.com/document/d/1lf4EkviOahKvSlVgqgvszBEnsb3uDeKHwDJvpN8Akv8/edit](https://docs.google.com/document/d/18InKDwiv3jWze8E4sfDyYUohTpyz1xhkb0I4kC8KSec/edit?usp=sharing))
+- 📄 Get to know about my experiences via my [resume](https://docs.google.com/document/d/18InKDwiv3jWze8E4sfDyYUohTpyz1xhkb0I4kC8KSec/edit?usp=sharing)
 
 
 
