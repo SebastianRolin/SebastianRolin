@@ -3,9 +3,9 @@
 ## 🚀 About Me
 I am a results-oriented professional specializing in operations analysis with a keen passion for leveraging data-driven insights to enhance business processes and support strategic decision-making. My expertise includes proficiency in SQL, Excel, Power BI, and other analytical tools, with a proven track record of implementing cost-saving initiatives and process improvements.
 
-Currently, I am pursuing a finance degree to further complement my skills in business analytics. I excel in collaborating with cross-functional teams to provide actionable recommendations based on thorough data analysis.
+Currently, I am pursuing an accounting degree to further complement my skills in business analytics. I excel in collaborating with cross-functional teams to provide actionable recommendations based on thorough data analysis.
 
-- 📄 Get to know about my experiences via my [resume](https://docs.google.com/document/d/18InKDwiv3jWze8E4sfDyYUohTpyz1xhkb0I4kC8KSec/edit?usp=sharing)
+- 📄 Get to know about my experiences via my [resume](https://docs.google.com/document/d/1JWHFGD0cnF_t90y8eF_B_8DU0o6GonsNX6k1-EYUhxo/edit?tab=t.0)
 
 
 
